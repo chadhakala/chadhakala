@@ -5,12 +5,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Java
-- 🌱 I’m currently learning Inheritance/ Polymorphism/Arrays
-- 👯 I’m looking to collaborate on new creative stuff particularly photoshop scripting
-- 🤔 I’m looking for help with photoshop scripts
-- 💬 Ask me about my cat 😸🤙
+- 🔭 I’m currently working on PHP
+- 🌱 I’m currently learning to how to host a domain and host a web server from a container
+- 👯 I’m looking to collaborate on making simple web applications
+- 🤔 I’m looking for help with getting my unraid server on my domain 🤷🏼
+- 💬 Ask me about why I'm the village idiot
 - 📫 How to reach me: CHADHAKALA AT GMAIL
 - 😄 Pronouns: CAT GOES BY HERMZ
-- ⚡ Fun fact: I LIKE RAMEN
+- ⚡ Fun fact: If I ask for help, I likely read the manual and still don't know what to do and/or needlessly striving for perfection. 
 -->
